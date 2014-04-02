@@ -130,7 +130,7 @@ The majority of the questions were collected from:
 * What's IO Wait?
 * What's a chroot jail?
 * When trying to umount a directory it says it's busy, how to find out which PID holds the directory?
-
+* What's LD_PRELOAD and when it's used?
 
 ####[[⬆]](#toc) <a name='expert'>Expert Linux Questions:</a>
 
