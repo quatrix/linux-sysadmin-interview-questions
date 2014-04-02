@@ -127,6 +127,7 @@ The majority of the questions were collected from:
 * How trace system call and signal?
 * What's happening when the Linux kernel is starting the OOM killer, how does it choose which process to kill first.
 * Describe the linux boot process with as much detail as possible, starting from when the system is powered on and ending when you get a prompt.
+* What's IO Wait?
 * What's a chroot jail?
 * When trying to umount a directory it says it's busy, how to find out which PID holds the directory?
 
