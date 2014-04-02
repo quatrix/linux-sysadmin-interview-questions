@@ -135,7 +135,8 @@ The majority of the questions were collected from:
 ####[[⬆]](#toc) <a name='expert'>Expert Linux Questions:</a>
 
 * A running process gets ```EAGAIN: Resource temporarily unavailable``` on reading a socket. How you can close this bad socket/file descriptor without killing the process?
-
+* What's the Slab Allocator?
+* Hoe ````sleep```` works?
 
 ####[[⬆]](#toc) <a name='network'>Networking Questions:</a>
 
@@ -195,6 +196,7 @@ The majority of the questions were collected from:
 * Explain the following command ```(date ; ps -ef | awk ‘{print $1}’ | sort | uniq | wc -l ) >> Activity.log```
 * Write a script to list all the differences between two directories.
 * Write a program in any language you choose, to reverse a file.
+* You run a binary and nothing happens, how do you debug what's doing?
 
 
 ####[[⬆]](#toc) <a name='references'>Other Great References:</a>
